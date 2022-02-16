@@ -14,6 +14,7 @@ Con el commit anterior, nuestro workflow ya fue ejecutado por primera vez debido
 ![Workflow results](/img/action-result.PNG)
 
 El resultado nos ha creado una nueva rama llamada `gh-pages`:
+
 ![Branch](/img/branches.PNG)
 
 La cual tiene por contenido el build generado por nuestro workflow:

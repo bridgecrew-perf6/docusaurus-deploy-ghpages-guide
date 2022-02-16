@@ -24,6 +24,7 @@ const config = {
           // Please change this to your repo.
           routeBasePath: '/',
           showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
         },
         blog: false,
         theme: {

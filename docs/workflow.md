@@ -21,13 +21,13 @@ Un **workflow** es un proceso automatizado configurable que ejecutará uno o má
 
 Dentro de nuestro repositorio iremos a la pestaña *Actions*:
 
-![Actions](/img/actions.png)
+![Actions](/img/actions.PNG)
 
 Daremos click en **set up a workflow yourself**.
 
 A continuación se nos mostrará un editor para crear nuestro workflow. En este caso le pondremos por nombre `deploy-docusaurus.yml`.
 
-![Create workflow](/img/create-workflow.png)
+![Create workflow](/img/create-workflow.PNG)
 
 Y el contenido del mismo será el siguiente:
 
